@@ -1,2 +1,2 @@
 # Oracle
-Mystery Visual Novel
+2D Mystery RPG Visual Novel
